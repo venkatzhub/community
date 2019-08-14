@@ -2,13 +2,13 @@
 
 ## Attendees
 
-- [ ] Andrew (Broadcom)
+- [ ] Andrew (Broadcom) 
 - [x] Brandon (Broadcom)
 - [x] Jim (Broadcom)
 - [x] Ashley (IBM)
 - [x] Alyson (Rocket)
-- [x] Jason (Rocket)
-- [ ] Igor
+- [ ] Jason (Rocket) Vacation 
+- [x] Igor
 - [ ] Sign our name here
 
 
@@ -50,6 +50,7 @@
   - Zowe CLI
     - Zowe Active Development, adding doc for 2 CLI plug-ins (IMS and MQ).
   - Web UI
+    - Reorganizing content
     - 
   - z/OS Services
     - Zowe SMP/E Alpha doc. Might be part of 1.5.0.
