@@ -37,18 +37,23 @@ Agenda Items
 5. Squad Status:
     - Installation (Joe)
     - Onboarding (JoeW/TimB)
-    - Core/Web/Editor (JPL/Reet/Nolan)
-    	- Working on implementing File Properties in File Explorer Right Click Menu for the Editor (#180)
-    	- Testing saving existing dataset in the Code Editor (#179)
+    - Core/Web/Editor (JPL/Nolan)
+    	- Working on keyboard navigation to the Editor, Alt + T switch tab, Alt + w to close and adding focus to the tab (#81) 
+    	- Fixed a small bug where the Editor menu position would look off place in Firefox (#83)
+    	- Updated the Editor to use the File Explorer for Dataset browsing instead of an older, slower structure (#78)
+    	- Added more keyboard navigation to the Editor, Alt +n new file (#68)
     - Core/CLI (Mike B/Kyle)
-         - Imperative efforts
-            - (In Progress) Issue #239 - Deliver --help-web as global option to @lts-incremental
         - Core CLI efforts
             - (In Progress) Issue #476 - Publish @latest CLI bundle and associated documentation
-        - Progressing toward Zowe VSCode Extension 1.0 - 1,119 unique installs, 5,101 downloads!
+            - (In Progress) Issue #497 - Publish npm audit reports to advisory location
+        - Progressing toward Zowe VSCode Extension 1.0 - 1,210 unique installs, 5,340 downloads!
+            - (In Progress) Issue #93 - Job Tree - Refresh Icon Tooltip
             - (In Progress) Issue #102 - Add ability to filter by jobid
             - (In Progress) Issue #118 - Recall recently used searches/filters
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
+        - Authentication client feature is complete including documentation and Artifactory publishing
+            - Client used in the API Catalog
+        - Next item we are about to work on is the integration of the sec. client into Discovery Service (#81)
     - Foundation (CI/CD) (Mark/Nick)
     - Documentation (Brandon/Ashley/Jim/Jason/Alyson)
 
