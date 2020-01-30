@@ -34,6 +34,7 @@ Agenda Items
      - Discuss v1.8.0 Release
 5. Squad Status:
     - Installation (Joe/Rose)
+        - SMP/E install-test pipeline worked with temp hack, WIP for convenience build variant (JohnD)
     - Onboarding (JoeW/Taylor)
     - Core/Web/Editor (JPL/Nolan/James)
     - API Mediation Layer & Security (Petr G/Michal S/Petr P)
