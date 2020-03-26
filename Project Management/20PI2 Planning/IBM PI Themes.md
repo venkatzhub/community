@@ -15,7 +15,11 @@ Themes for 20PI2
                 <li><b>High Level Overview</b>: SSO, MFA, Keyrings, within Zowe z/OS - CLI - Zowe Explorer - extender  updated conformance</li>
                 <li><b>Resources</b>: </li>
                 <li><b>Risks</b>: Cross squad - how to coordinate with CLI, APIML, Desktop, Cupids</li>
-                <li><b>Zenhub Epic</b>: </li>
+                <li><b>Github items</b>:</li> 
+                <li>[Provide a way to verify the authenticity of a Zowe driver as being original, untampered, release](https://github.com/zowe/zowe-install-packaging/issues/1179)</li>
+                <li>[Move away from USS keystores towards SAF key rings](https://github.com/zowe/zowe-install-packaging/issues/789)</li>
+                <li>[MFA - Review existing Doc and support](https://github.com/zowe/community/issues/197)</li>
+</li>
             </ul>
             </td>
             <td>10</td>
