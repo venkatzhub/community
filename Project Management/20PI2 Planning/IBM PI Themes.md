@@ -16,9 +16,6 @@ Themes for 20PI2
                 <li><b>Resources</b>: </li>
                 <li><b>Risks</b>: Cross squad - how to coordinate with CLI, APIML, Desktop, Cupids</li>
                 <li><b>Github items</b>:</li> 
-                <li>[Provide a way to verify the authenticity of a Zowe driver as being original, untampered, release](https://github.com/zowe/zowe-install-packaging/issues/1179)</li>
-                <li>[Move away from USS keystores towards SAF key rings](https://github.com/zowe/zowe-install-packaging/issues/789)</li>
-                <li>[MFA - Review existing Doc and support](https://github.com/zowe/community/issues/197)</li>
 </li>
             </ul>
             </td>
@@ -31,7 +28,7 @@ Themes for 20PI2
                 <li><b>High Level Overview</b>: Docker containerize Java/Node portions of Zowe z/OS.  zowe-start.sh to just bring up zss.  Test and support deploment on ZCX for customers. Investigate Docker off host for K8S HA. </li>
                 <li><b>Resources</b>: </li>
                 <li><b>Risks</b>: Cross squad:  Desktop, Cupids, APIML </li>
-                <li><b>Zenhub Epic</b>: </li>
+                <li><b>Github Items</b>: </li>
             </ul>
             </td>
             <td>7? </td>
@@ -59,3 +56,4 @@ Themes for 20PI2
             <td>2? </td>
         </tr>
 </table>
+
